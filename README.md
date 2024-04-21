@@ -1,6 +1,7 @@
-Digital Clock Project
-<hr>
-technologys: Html, Css and JavaScript
-<hr>
-description: digital clock project on a web page, based on the hours on your own computer.
+# About:
+<br>Real-time digital clock using date object.
+
+
+# 💻 Technologies:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
